@@ -1,2 +1,2 @@
 # myleetcodes
-# I will share my leetcode solutions hereby from now on,
+# I will share my solutions for replt exercises and leetcode solutions hereby from now on,
