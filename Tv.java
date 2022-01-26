@@ -69,3 +69,4 @@ public void turnOff() {
   if (on==false) {
   System.out.println("TV is already OFF");}
   else {on=false;} } }
+// To watch my solution at: https://www.loom.com/share/c680b4dd979148eb926ab9e6e7597b31?sharedAppSource=personal_library
